@@ -1,0 +1,6 @@
+name: JoinAndLeave
+version: '${project.version}'
+main: me.lucasaraujo.joinandleave.JoinAndLeave
+api-version: 1.17
+authors: [ Captalize ]
+description: Plugin to join and leave
